@@ -1,0 +1,6 @@
+.deploy/
+node_modules/
+dist/
+baked/
+package-lock.json
+.DS_Store
